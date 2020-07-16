@@ -10,21 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryan-harris/pwa-budget-tracker.git"
+    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
   },
-  "author": "Ryan Harris <harris.ucla@gmail.com> (https://github.com/ryan-harris)",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ryan-harris/pwa-budget-tracker/issues"
+    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
   },
-  "homepage": "https://github.com/ryan-harris/pwa-budget-tracker#readme",
+  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
   "dependencies": {
-    "compression": "^1.7.4",
     "express": "^4.17.1",
-    "mongoose": "^5.5.15",
-    "morgan": "^1.9.1"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.3"
+    "mongoose": "^5.5.15"
   }
 }
